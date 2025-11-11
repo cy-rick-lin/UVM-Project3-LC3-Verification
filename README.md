@@ -141,7 +141,7 @@
 ---
 
 ## Notes
-
+- Use python3.9 *$UVMF_HOME/scripts/yaml2uvmf.py xyz.yaml*
 - All environments must include predictor and scoreboard components
 - Instruction coverage can be placed in:
   - `decode_in` agent coverage component, OR
